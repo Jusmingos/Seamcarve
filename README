@@ -1,0 +1,12 @@
+Handin: Final
+
+Design Choices:
+       In this program I wrote three helper methods in addition to findLowestCostSeam(): fillColors(),
+       which takes in a colors array and fills it with the color values of the pixels;
+       fillVals(), which takes in a colors array, an image width and a vals array and fills the vals array
+       with the importance values of the pixels; findMin(), which takes in the top row of the cost array and
+       returns the index of the smallest element in the top row; fillArrays(), which takes in width, vals, costs and dirs
+       to fill the costs and dirs 2D arrays.
+
+Known Bugs: None
+
